@@ -4,6 +4,9 @@ from random import randint
 import json
 from typing import ContextManager
 
+#6210407455
+#6210406769
+
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((socket.gethostname(), 1234))
 
